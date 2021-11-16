@@ -1,0 +1,9 @@
+## backend
+1. run command : composer install
+2. db : create db naming  property_db  and run the command : php spark migrate
+	or import Property_db.sql file to mysql 
+3. run command : php spark serve
+
+## frontend:
+1. npm install
+2. npm start
